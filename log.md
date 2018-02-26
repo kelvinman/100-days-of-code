@@ -7,3 +7,11 @@
 **Thoughts** Been getting error when trying to get new quotes with JSON. Did some research and found out it was due to cross domain request and fixed it with JSONP.
 
 **Link(s) to work**: [Quote New Tab Page](https://github.com/kelvinman/quote-new-tab-page)
+
+### Day 2: February 26, Monday
+
+**Today's Progress**: Fixed new quote appending under current quote and added some styles with CSS.
+
+**Thoughts** Quote has to be targeted and removed in the right order to avoid errors. 
+
+**Link(s) to work**: [Quote New Tab Page](https://github.com/kelvinman/quote-new-tab-page)
