@@ -12,6 +12,14 @@
 
 **Today's Progress**: Fixed new quote appending under current quote and added some styles with CSS.
 
-**Thoughts** Quote has to be targeted and removed in the right order to avoid errors. 
+**Thoughts** Quote has to be targeted and removed in the right order to avoid errors.
+
+**Link(s) to work**: [Quote New Tab Page](https://github.com/kelvinman/quote-new-tab-page)
+
+### Day 3: February 27, Tuesday
+
+**Today's Progress**: Add ability to tweet current quote and more style tweak with CSS.
+
+**Thoughts** Getting the tweet button to work was easier than I thought. Also learned how to create nice looking button in CSS without framework.
 
 **Link(s) to work**: [Quote New Tab Page](https://github.com/kelvinman/quote-new-tab-page)
