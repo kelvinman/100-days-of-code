@@ -23,3 +23,11 @@
 **Thoughts** Getting the tweet button to work was easier than I thought. Also learned how to create nice looking button in CSS without framework.
 
 **Link(s) to work**: [Quote New Tab Page](https://github.com/kelvinman/quote-new-tab-page)
+
+### Day 4: February 28, Wednesday
+
+**Today's Progress**: Quote New Tab Page is now responsive.
+
+**Thoughts** Learned that vertical padding is relative to element’s width not height and knowing that helped me understand how to create responsive elements with CSS.
+
+**Link(s) to work**: [Quote New Tab Page](https://github.com/kelvinman/quote-new-tab-page)
