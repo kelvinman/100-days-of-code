@@ -31,3 +31,11 @@
 **Thoughts** Learned that vertical padding is relative to element’s width not height and knowing that helped me understand how to create responsive elements with CSS.
 
 **Link(s) to work**: [Quote New Tab Page](https://github.com/kelvinman/quote-new-tab-page)
+
+### Day 5: March 1, Thursday
+
+**Today's Progress**: A responsive web based payment application.
+
+**Thoughts** Getting a lot more comfortable using CSS to create responsive design but also CSS in general. Next step is to work on Javascript.
+
+**Link(s) to work**: [Payment App](https://kelvinman.github.io/payment-app/)
