@@ -39,3 +39,11 @@
 **Thoughts** Getting a lot more comfortable using CSS to create responsive design but also CSS in general. Next step is to work on Javascript.
 
 **Link(s) to work**: [Payment App](https://kelvinman.github.io/payment-app/)
+
+### Day 6: March 2, Friday
+
+**Today's Progress**: Set up JSON server on Heroku and connect it to Front-end interface of the Adigami platform.
+
+**Thoughts** Deployed my first Node.js Apps on Heroku. The workflow is actually very similar to git but it's a little more complicated. Defintely very useful to know and can't wait to deploy more apps on Heroku.
+
+**Link(s) to work**: [Materialize](https://kelvinman.github.io/Materialize/index.html)
