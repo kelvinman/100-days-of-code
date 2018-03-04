@@ -47,3 +47,11 @@
 **Thoughts** Deployed my first Node.js Apps on Heroku. The workflow is actually very similar to git but it's a little more complicated. Defintely very useful to know and can't wait to deploy more apps on Heroku.
 
 **Link(s) to work**: [Materialize](https://kelvinman.github.io/Materialize/index.html)
+
+### Day 7: March 3, Saturday
+
+**Today's Progress**: Build the Google.com homepage
+
+**Thoughts** This was more difficult than I thought but I learned how to use Chrome Dev Tool more effectively.
+
+**Link(s) to work**: [Google Homepage](https://kelvinman.github.io/google-homepage/)
