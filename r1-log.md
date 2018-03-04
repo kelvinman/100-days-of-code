@@ -24,3 +24,6 @@ Set up JSON server on Heroku and connect it to Front-end interface of the Adigam
 
 ### R1D7
 Build the Google.com homepage. Learned how to use Chrome Dev Tool more effectively https://kelvinman.github.io/google-homepage/
+
+### R1D8
+Started building a new tab page to display current weather data. Learned how to use .gitignore to hide unique API key from being commited to github https://github.com/kelvinman/weather-new-tab-page
