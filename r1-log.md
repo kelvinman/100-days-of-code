@@ -30,3 +30,6 @@ Started building a new tab page to display current weather data. Learned how to 
 
 ### R1D9
 Metric boxes are now update on change. Getting more comfortable parsing JSON data and showing the useful data. Also learned about PageSpeed and rules that help websites load fast on all devices https://kelvinman.github.io/Materialize/
+
+### R1D10
+Added a function to round float to 2 significant digits using .toPrecision() function in Javascript. Still need more work to keep data display at all time https://kelvinman.github.io/Materialize/
