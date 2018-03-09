@@ -37,3 +37,6 @@ Added a function to round float to 2 significant digits using .toPrecision() fun
 ### R1D11
 Fixed metric boxes bug where new numbers add to the end of the current numbers. https://kelvinman.github.io/Materialize/
 Started on landing page for BluPrint https://kelvinman.github.io/bluprint/
+
+### R1D12
+fix graph not showing http://app.adigami.com/
