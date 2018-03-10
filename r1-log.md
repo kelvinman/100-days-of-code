@@ -39,4 +39,7 @@ Fixed metric boxes bug where new numbers add to the end of the current numbers. 
 Started on landing page for BluPrint https://kelvinman.github.io/bluprint/
 
 ### R1D12
-fix graph not showing http://app.adigami.com/
+Fix graph not showing http://app.adigami.com/
+
+### R1D13
+Fix more bugs and graph now shows when page load. http://app.adigami.com/
