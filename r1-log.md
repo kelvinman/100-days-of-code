@@ -43,3 +43,6 @@ Fix graph not showing http://app.adigami.com/
 
 ### R1D13
 Fix more bugs and graph now shows when page load. http://app.adigami.com/
+
+### R1D13
+Learned about PageSpeed optimiztion and optimized all images on BluPrint Landing Page https://kelvinman.github.io/bluprint/
