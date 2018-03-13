@@ -35,8 +35,8 @@ Metric boxes are now update on change. Getting more comfortable parsing JSON dat
 Added a function to round float to 2 significant digits using .toPrecision() function in Javascript. Still need more work to keep data display at all time https://kelvinman.github.io/Materialize/
 
 ### R1D11
-Fixed metric boxes bug where new numbers add to the end of the current numbers. https://kelvinman.github.io/Materialize/<br>
-Started on landing page for BluPrint https://kelvinman.github.io/bluprint/
+Started on landing page for BluPrint https://kelvinman.github.io/bluprint/<br>
+Fixed metric boxes bug where new numbers add to the end of the current numbers. https://kelvinman.github.io/Materialize/
 
 ### R1D12
 Fix graph not showing http://app.adigami.com/
