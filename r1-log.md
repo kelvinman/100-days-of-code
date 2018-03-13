@@ -35,8 +35,7 @@ Metric boxes are now update on change. Getting more comfortable parsing JSON dat
 Added a function to round float to 2 significant digits using .toPrecision() function in Javascript. Still need more work to keep data display at all time https://kelvinman.github.io/Materialize/
 
 ### R1D11
-Fixed metric boxes bug where new numbers add to the end of the current numbers. https://kelvinman.github.io/Materialize/
-Started on landing page for BluPrint https://kelvinman.github.io/bluprint/
+Fixed metric boxes bug where new numbers add to the end of the current numbers. https://kelvinman.github.io/Materialize/  Started on landing page for BluPrint https://kelvinman.github.io/bluprint/
 
 ### R1D12
 Fix graph not showing http://app.adigami.com/
@@ -46,3 +45,7 @@ Fix more bugs and graph now shows when page load. http://app.adigami.com/
 
 ### R1D13
 Learned about PageSpeed optimiztion and optimized all images on BluPrint Landing Page https://kelvinman.github.io/bluprint/
+
+### R1D14
+Updated readme.md with new dashboard image https://github.com/kelvinman/Materialize  
+Optimized Adigami landing page https://kelvinman.github.io/adigami-landing-page/index.html
