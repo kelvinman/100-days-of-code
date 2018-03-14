@@ -50,3 +50,6 @@ Learned about PageSpeed optimiztion and optimized all images on BluPrint Landing
 ### R1D14
 Updated readme.md with new dashboard image https://github.com/kelvinman/Materialize<br>
 Optimized Adigami landing page https://kelvinman.github.io/adigami-landing-page/index.html
+
+### R1D15
+Added footer on Adigami landing page https://kelvinman.github.io/adigami-landing-page/index.html
