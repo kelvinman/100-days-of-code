@@ -56,3 +56,5 @@ Added footer on Adigami landing page https://kelvinman.github.io/adigami-landing
 
 ### R1D16
 Fixed navbar transparent issue where nothing was showing when scolled down. Now navbar text turns grey once it reaches end of the landing image. Fixed some responsive issues where breakpoints not desirable. Also connected links to Materilize https://kelvinman.github.io/adigami-landing-page/index.html
+
+### R1D17
