@@ -49,12 +49,13 @@ Learned about PageSpeed optimiztion and optimized all images on BluPrint Landing
 
 ### R1D14
 Updated readme.md with new dashboard image https://github.com/kelvinman/Materialize<br>
-Optimized Adigami landing page https://kelvinman.github.io/adigami-landing-page/index.html
+Optimized Adigami landing page https://kelvinman.github.io/adigami-landing-page/
 
 ### R1D15
-Added footer on Adigami landing page https://kelvinman.github.io/adigami-landing-page/index.html
+Added footer on Adigami landing page https://kelvinman.github.io/adigami-landing-page/
 
 ### R1D16
-Fixed navbar transparent issue where nothing was showing when scolled down. Now navbar text turns grey once it reaches end of the landing image. Fixed some responsive issues where breakpoints not desirable. Also connected links to Materilize https://kelvinman.github.io/adigami-landing-page/index.html
+Fixed navbar transparent issue where nothing was showing when scolled down. Now navbar text turns grey once it reaches end of the landing image. Fixed some responsive issues where breakpoints not desirable. Also connected links to Materilize https://kelvinman.github.io/adigami-landing-page/
 
 ### R1D17
+Fix bad logout link https://github.com/kelvinman/Materialize
