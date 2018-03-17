@@ -59,3 +59,6 @@ Fixed navbar transparent issue where nothing was showing when scolled down. Now 
 
 ### R1D17
 Fix bad logout link https://github.com/kelvinman/Materialize
+
+### R1D17
+Metric percentage change now response to JSON data https://github.com/kelvinman/Materialize
