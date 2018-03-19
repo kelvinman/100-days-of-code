@@ -60,5 +60,8 @@ Fixed navbar transparent issue where nothing was showing when scolled down. Now 
 ### R1D17
 Fix bad logout link https://github.com/kelvinman/Materialize
 
-### R1D17
+### R1D18
 Metric percentage change now response to JSON data https://github.com/kelvinman/Materialize
+
+### R1D19
+Read about design roles and realized I am more of a UX engineer than a UX designer. https://uxdesign.cc/the-spectrum-of-digital-design-roles-in-2018-3286390a9966
