@@ -67,4 +67,4 @@ Metric percentage change now response to JSON data https://github.com/kelvinman/
 Fix percentage change https://github.com/kelvinman/Materialize
 
 ### R1D20
-Started working on the webapp for BluPrint https://github.com/kelvinman/Materialize/Views/Pages/webapp.html
+Started working on the webapp for BluPrint https://github.com/kelvinman/bluprint/Views/Pages/webapp.html
