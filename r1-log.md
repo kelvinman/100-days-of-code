@@ -68,3 +68,6 @@ Fix percentage change https://github.com/kelvinman/Materialize
 
 ### R1D20
 Started working on the webapp for BluPrint https://kelvinman.github.io/bluprint/Views/Pages/webapp.html
+
+### R1D21
+Read a bunch of article about Angular, React and Vue for a new project https://medium.com/search?q=angular
