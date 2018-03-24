@@ -71,3 +71,6 @@ Started working on the webapp for BluPrint https://kelvinman.github.io/bluprint/
 
 ### R1D21
 Read a bunch of article about Angular, React and Vue for a new project https://medium.com/search?q=angular
+
+### R1D22
+Started working on the weather new tab page where live weather of your location will be displayed. Able to get live weather now but need to update weather with user's location. https://github.com/kelvinman/weather-new-tab-page/
