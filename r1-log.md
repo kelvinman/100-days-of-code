@@ -76,4 +76,4 @@ Read a bunch of article about Angular, React and Vue for a new project https://m
 Started working on the weather new tab page where live weather of your location will be displayed. Able to get live weather now but need to update weather with user's location. https://github.com/kelvinman/weather-new-tab-page/
 
 ### R1D23
-Started working on the weather new tab page where live weather of your location will be displayed. Able to get live weather now but need to update weather with user's location. https://github.com/kelvinman/weather-new-tab-page/
+ https://github.com/kelvinman/weather-new-tab-page/
