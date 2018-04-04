@@ -77,3 +77,9 @@ Started working on the weather new tab page where live weather of your location 
 
 ### R1D23
 Add get geolocation https://github.com/kelvinman/weather-new-tab-page/
+
+### R1D24
+Learned how to use DataTables to create a responsive data table.
+
+### R1D25
+Learned how to use Javascript to format phone numbers and SSN in forms.
